@@ -9,3 +9,8 @@ Attributes
     The cute rabbit picture (https://unsplash.com/photos/13sk8LUVwMg)
     The robot picture (https://unsplash.com/photos/R4WCbazrD1g)
     The cute lady picture (https://unsplash.com/photos/eTMtdh85TOk)
+
+<!-- Note -->
+The website is not responsive yet 
+
+<!-- Live preview at  --> johnnyz2005.github.io/Admin-dashbaord 
