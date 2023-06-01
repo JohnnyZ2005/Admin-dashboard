@@ -10,7 +10,8 @@ Attributes
     The robot picture (https://unsplash.com/photos/R4WCbazrD1g)
     The cute lady picture (https://unsplash.com/photos/eTMtdh85TOk)
 
-<!-- Note -->
+Please Note:
+
 The website is not responsive yet 
 
-<!-- Live preview at  --> johnnyz2005.github.io/Admin-dashbaord 
+Live Preview at: https://johnnyz2005.github.io/Admin-dashboard/ 
